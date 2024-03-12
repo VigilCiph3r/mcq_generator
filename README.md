@@ -1,12 +1,5 @@
-# MCQ Generator
-This project uses Extractive Summarizer, Wordnet and Conceptnet to generate mcq questions and answers from any text article. Here is the [Drive Folder](https://drive.google.com/drive/folders/1HAefWSnH-YiEb8cd39BSR6em7E3ASf9V?usp=sharing) containing sample text files we use to generate the questions for reference. Here's the [link](https://drive.google.com/drive/folders/1dWVqnY6IN_Z_fAOEmpNrHpi3UxsTmUk6?usp=sharing) to our infographic poster for quick access.
+Introducing a cutting-edge solution tailored for educators, teachers, and professionals, our revolutionary tool is set to transform the landscape of assessment and evaluation. By automating the intricate process of generating multiple-choice questions (MCQs) from text, this innovative tool caters to the diverse needs of those immersed in education and professional training. Its sophisticated design promises a seamless and efficient approach to creating quizzes, surveys, and assessments at an unprecedented scale.
+In response to the growing demand for streamlined evaluation processes, our tool offers a user-friendly interface that empowers users to navigate effortlessly through the question generation process. Its scalability ensures adaptability for various educational levels, subjects, and professional contexts, making it a versatile solution for both small-scale classroom assessments and large-scale evaluations. Beyond mere efficiency, this tool promises to elevate the quality and objectivity of assessments. By automating MCQ creation, it mitigates the risk of biases and ensures a consistent standard across assessments. This not only saves valuable time for educators and professionals but also contributes to fair and reliable evaluations.
+As we usher in a new era of educational technology, our tool invites educators and professionals alike to embrace the benefits of automated quiz generation. It not only promises to be a time-saving solution but also a catalyst for enhancing the effectiveness of assessments in educational and professional spheres. Join us on this journey toward a more efficient, scalable, and objective approach to assessment creation.
+With the burgeoning adoption of digital learning platforms and online assessment tools, there is a surging demand for proficient and dependable MCQ generation software. This application stands poised to bridge the divergence between conventional assessment practices and contemporary technological strides, providing an eloquent and refined solution for educators and learners alike. In summary, the proposed software aspires to revolutionize MCQ creation through the harnessing of cutting-edge NLP and ML technologies, presenting an intuitive interface, context-driven input, and meticulous question generation to empower excellence in the educational landscape.
 
-        Members: 
-        1.   Ho Zhi Yi
-        2.   Chia Siao Wei
-        3.   Li Yang
-        4.   Lim Chooi Yeng
-        5.   Pang Chong Wen
-        6.   Tan Jia Xuan
-        7.   Yeyang Liu
-       
